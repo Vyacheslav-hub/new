@@ -3,3 +3,5 @@
 ## Так пишется текст со ссылкой '[текст ссылки](ссылка)' [Сочные](https://prezervativnaya.ru/product/clen-ledenec-srednij-cernyj11-sm)
 
 ## Чтобы была картинка '![текст ссылки](ссылка)' ![img.png](img.png)
+
+1. ам
